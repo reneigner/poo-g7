@@ -1,0 +1,2 @@
+Se asume que ya se tiene el framework instalado, se descarga.
+Se coloca en una carpeta libre de restricciones.
