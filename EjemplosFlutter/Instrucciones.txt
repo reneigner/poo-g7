@@ -1,2 +1,5 @@
 Se asume que ya se tiene el framework instalado, se descarga.
 Se coloca en una carpeta libre de restricciones.
+
+Para el ejemplo de crucigrama descargar de la siguiente liga:
+https://drive.google.com/file/d/18qPib0btmKz5LR2TYrgP-wjc3yMLLP5r/view?usp=sharing
